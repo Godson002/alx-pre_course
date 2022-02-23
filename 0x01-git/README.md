@@ -1,1 +1,1 @@
-new directory
+edit task directory
